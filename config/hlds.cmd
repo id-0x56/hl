@@ -1,0 +1,1 @@
+start /high hlds.exe -game cstrike -nomaster -insecure -console +ip 192.168.0.100 +port 27015 +map de_dust2 +maxplayers 12

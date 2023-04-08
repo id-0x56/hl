@@ -1,0 +1,1 @@
+start /high hltv.exe -nomaster +connect 192.168.0.100:27015 +record HLTV

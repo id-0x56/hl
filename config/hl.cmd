@@ -1,0 +1,1 @@
+start /high hl.exe -full -w 800 -h 600 -16bpp -game cstrike -nomaster -noforcemaccel -noforcemparms -noforcemspd
